@@ -120,9 +120,4 @@ video‑subtitle‑tool‑main/
 ‑ `LICENSE`: Open source license file(MIT).（‑ `LICENSE`：开源协议文件，MIT协议）
 ‑ `README.md`: Project documentation (English text with Chinese translation inside).（‑ `README.md`：项目说明文档，英文正文附带句后中文翻译）
 
-> ⚠️ Clean‑up suggestion before GitHub release（⚠️GitHub发布清理建议）：
-> Delete these redundant local‑development files: `all（得到文件夹中全部代码）.py`、`README_EN.md`、`ATTENTION.md`、`ATTENTION_EN.md`
-> These are local auxiliary files and will not affect program functions after deletion.（删除本地调试冗余文件：`all（得到文件夹中全部代码）.py`、`README_EN.md`、`ATTENTION.md`、`ATTENTION_EN.md`；均为本地辅助文件，删除不影响程序运行）
-
-
 ---
